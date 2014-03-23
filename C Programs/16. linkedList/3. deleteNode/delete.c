@@ -1,0 +1,9 @@
+#include"linkedList.h"
+main(){
+    fillList();
+    displayList();
+    while(1){
+        searchAndDeleteNode();
+        displayList();
+    }
+}

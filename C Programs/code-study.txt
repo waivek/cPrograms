@@ -1,0 +1,26 @@
++-Things to study
++-Similarities and Differences between characters and int
++-Conversion of character case using arithmetic
++-Applying math. on char and its advantages
++-I/O=getchar(), putchar(), scanf(), printf(), gets(), puts()
++-Format modifies: %0d %5d %-5d etc &7.2f %07.2f %.2f etc
++-When is ampersand required in scanf? (scanf a string, then string is alread an adress)
++-Use #include and #define
++-Two dimension char arrays-as an array of strings
++-FUNCTIONSstrchr,strstr,isalpha,islower,isupper
++-Write spaces as '_'
++-For string, default=come from left; For numbers, default=come from right.
++-Call by value and reference
++-Sending arrays or strings to a function
++-Header files and corresponding readymade functions
++-r+, fseek and ftell
++-
++-
++-
++-
++-
++-
++-
++-
++-
++-

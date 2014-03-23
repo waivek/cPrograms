@@ -1,0 +1,15 @@
+#include<stdio.h>
+main(){
+	int n,i,j;
+	char s[400],c;
+	printf("Enter n\t:");
+	scanf("%d",&n);
+	printf("Enter the character\t\n:");
+	scanf("%c",&c);
+	printf("The built string is\t:");
+	for(i=0;i<n;i++){
+		s[i]=c;
+	}
+	puts(s);
+	getch();
+}

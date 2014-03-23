@@ -1,0 +1,10 @@
+
+[D]struct node* searchNode(int );
+[D]struct node* makeNode(struct film );
+[D]void fillList();
+[D]void searchAndDeleteNode();
+
+[I]void addNode(struct node* );
+[I]void displayList();
+[I]void deleteNode(struct node* );
+[I]void reverseList();
